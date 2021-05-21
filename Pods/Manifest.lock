@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.4.3)
+  - BSImagePicker (3.3.1)
+  - McPicker (3.0.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - BSImagePicker (~> 3.1)
+  - McPicker
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BSImagePicker
+    - McPicker
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  BSImagePicker: 0fe04b574d4d6b81093785d2af6c26227efc8428
+  McPicker: ba38be56a8194faa5249eca4226c364eed628044
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+
+PODFILE CHECKSUM: 6d49e636fbe99e689fc26ab07ea7f7e56daf82d6
+
+COCOAPODS: 1.8.4
